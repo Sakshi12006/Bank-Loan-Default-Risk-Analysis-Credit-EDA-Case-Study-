@@ -18,3 +18,5 @@ This project identifies patterns in loan application data to minimize the risk o
 ## 📂 Repository Contents
 - `Credit_EDA_Assignment.ipynb`: Python code with detailed data cleaning and visualizations.
 - `Credit_EDA_Presentation.pdf`: Final business presentation with executive summaries.
+- 📁 data/ (Contains: application_data_sample.csv)
+- 📁 docs/ (Contains: credit EDA assignment.pdf)
